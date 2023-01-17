@@ -1,0 +1,13 @@
+C:\Users\adale\RiderProjects\Alexandre.Soares.FaceDetection\src\Alexandre.Soares.FaceDetection\bin\Debug\net6.0\Alexandre.Soares.FaceDetection.deps.json
+C:\Users\adale\RiderProjects\Alexandre.Soares.FaceDetection\src\Alexandre.Soares.FaceDetection\bin\Debug\net6.0\Alexandre.Soares.FaceDetection.dll
+C:\Users\adale\RiderProjects\Alexandre.Soares.FaceDetection\src\Alexandre.Soares.FaceDetection\bin\Debug\net6.0\Alexandre.Soares.FaceDetection.pdb
+C:\Users\adale\RiderProjects\Alexandre.Soares.FaceDetection\src\Alexandre.Soares.FaceDetection\obj\Debug\net6.0\Alexandre.Soares.FaceDetection.csproj.AssemblyReference.cache
+C:\Users\adale\RiderProjects\Alexandre.Soares.FaceDetection\src\Alexandre.Soares.FaceDetection\obj\Debug\net6.0\Alexandre.Soares.FaceDetection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adale\RiderProjects\Alexandre.Soares.FaceDetection\src\Alexandre.Soares.FaceDetection\obj\Debug\net6.0\Alexandre.Soares.FaceDetection.AssemblyInfoInputs.cache
+C:\Users\adale\RiderProjects\Alexandre.Soares.FaceDetection\src\Alexandre.Soares.FaceDetection\obj\Debug\net6.0\Alexandre.Soares.FaceDetection.AssemblyInfo.cs
+C:\Users\adale\RiderProjects\Alexandre.Soares.FaceDetection\src\Alexandre.Soares.FaceDetection\obj\Debug\net6.0\Alexandre.Soares.FaceDetection.csproj.CoreCompileInputs.cache
+C:\Users\adale\RiderProjects\Alexandre.Soares.FaceDetection\src\Alexandre.Soares.FaceDetection\obj\Debug\net6.0\Alexandre.Soares.FaceDetection.dll
+C:\Users\adale\RiderProjects\Alexandre.Soares.FaceDetection\src\Alexandre.Soares.FaceDetection\obj\Debug\net6.0\refint\Alexandre.Soares.FaceDetection.dll
+C:\Users\adale\RiderProjects\Alexandre.Soares.FaceDetection\src\Alexandre.Soares.FaceDetection\obj\Debug\net6.0\Alexandre.Soares.FaceDetection.pdb
+C:\Users\adale\RiderProjects\Alexandre.Soares.FaceDetection\src\Alexandre.Soares.FaceDetection\obj\Debug\net6.0\ref\Alexandre.Soares.FaceDetection.dll
+C:\Users\adale\RiderProjects\Alexandre.Soares.FaceDetection\src\Alexandre.Soares.FaceDetection\bin\Debug\net6.0\haarcascade_frontalface_default.xml
