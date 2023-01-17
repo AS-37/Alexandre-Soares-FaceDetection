@@ -4,8 +4,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alexandre.Soares.FaceDetect
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alexandre.Soares.FaceDetection.Tests", "src\Alexandre.Soares.FaceDetection.Tests\Alexandre.Soares.FaceDetection.Tests.csproj", "{A3A28263-027E-4EF7-91E9-2333306AE629}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alexandre.Soares.FaceDetection.Console", "src\Alexandre.Soares.FaceDetection.Console\Alexandre.Soares.FaceDetection.Console\Alexandre.Soares.FaceDetection.Console.csproj", "{BA0739E4-82E0-4180-96C4-3BB53B6C19C9}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alexandre.Soares.FaceDetection.Console", "src\Alexandre.Soares.FaceDetection.Console\Alexandre.Soares.FaceDetection.Console.csproj", "{3C21159D-BF53-4548-A018-3695AF1ED43F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "src\Alexandre.Soares.FaceDetection.WebApi\src\WebApi\WebApi.csproj", "{548A07AF-BDC9-4A4B-A11D-091BBFBF6DEA}"
@@ -24,10 +22,6 @@ Global
 		{A3A28263-027E-4EF7-91E9-2333306AE629}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3A28263-027E-4EF7-91E9-2333306AE629}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3A28263-027E-4EF7-91E9-2333306AE629}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BA0739E4-82E0-4180-96C4-3BB53B6C19C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BA0739E4-82E0-4180-96C4-3BB53B6C19C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BA0739E4-82E0-4180-96C4-3BB53B6C19C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BA0739E4-82E0-4180-96C4-3BB53B6C19C9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3C21159D-BF53-4548-A018-3695AF1ED43F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3C21159D-BF53-4548-A018-3695AF1ED43F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C21159D-BF53-4548-A018-3695AF1ED43F}.Release|Any CPU.ActiveCfg = Release|Any CPU
